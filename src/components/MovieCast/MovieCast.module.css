@@ -1,0 +1,43 @@
+.wrapp {
+  padding: 0 20px;
+}
+
+.title {
+  margin-bottom: 15px;
+  padding: 10px;
+  text-align: center;
+  color: rgb(101, 39, 90);
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  width: 150px;
+  text-align: center;
+}
+
+.img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.text {
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.error {
+  padding: 30px;
+  font-size: 40px;
+  color: brown;
+  text-align: center;
+}
